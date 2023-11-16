@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/animals" mode="merge"/>
+    <filter root="/content/animals" mode="merge"/>
+    <filter root="/content/dam/animals/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/animals" mode="merge"/>
+</workspaceFilter>

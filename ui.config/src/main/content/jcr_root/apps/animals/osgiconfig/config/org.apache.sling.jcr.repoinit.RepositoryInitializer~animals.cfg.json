@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/animals",
+        "create path (nt:unstructured) /content/dam/animals/jcr:content",
+        "set properties on /content/dam/animals/jcr:content\n  set cq:conf{String} to /conf/animals\n  set jcr:title{String} to \"Animals Project\"\nend"
+    ]
+}
